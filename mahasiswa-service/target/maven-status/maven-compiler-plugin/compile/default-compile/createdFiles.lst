@@ -1,0 +1,6 @@
+com\taufiq\mahasiswa\service\userservice\MahasiswaService.class
+com\taufiq\mahasiswa\service\repository\MahasiswaRepository.class
+com\taufiq\mahasiswa\service\MahasiswaServiceApplication.class
+com\taufiq\mahasiswa\service\controller\MahasiswaController.class
+com\taufiq\mahasiswa\service\dto\Mahasiswa.class
+com\taufiq\mahasiswa\service\MahasiswaImpl.class
